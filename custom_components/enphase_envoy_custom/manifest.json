@@ -1,6 +1,6 @@
 {
   "domain": "enphase_envoy",
-  "name": "Enphase Envoy (DEV)",
+  "name": "Envoy (X88-EnvoyS-M-noCT)",
   "documentation": "https://www.home-assistant.io/integrations/enphase_envoy",
   "requirements": ["envoy-utils"],
   "codeowners": ["@gtdiehl"],
